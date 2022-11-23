@@ -1,0 +1,112 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "firstName": "LeBron",
+      "lastName": "James",
+      "jerseyNumber": 23,
+      "team": "Los Angeles Lakers"
+    },
+    {
+      "id": 2,
+      "firstName": "Giannis",
+      "lastName": "Antetokounmpo",
+      "jerseyNumber": 34,
+      "team": "Milwaukee Bucks"
+    },
+    {
+      "id": 3,
+      "firstName": "Kevin",
+      "lastName": "Durant",
+      "jerseyNumber": 7,
+      "team": "Brooklyn Nets"
+    },
+    {
+      "id": 4,
+      "firstName": "Stephen",
+      "lastName": "Curry",
+      "jerseyNumber": 30,
+      "team": "Golden State Warriors"
+    },
+    {
+      "id": 5,
+      "firstName": "Jaylen",
+      "lastName": "Brown",
+      "jerseyNumber": 7,
+      "team": "Boston Celtics"
+    },
+    {
+      "id": 6,
+      "firstName": "Ben",
+      "lastName": "Simmons",
+      "jerseyNumber": 10,
+      "team": "Brooklyn Nets"
+    },
+    {
+      "id": 7,
+      "firstName": "Andrew",
+      "lastName": "Wiggins",
+      "jerseyNumber": 22,
+      "team": "Golden State Warriors"
+    },
+    {
+      "id": 8,
+      "firstName": "Anthony",
+      "lastName": "Edwards",
+      "jerseyNumber": 1,
+      "team": "Minesota Timberwolves"
+    },
+    {
+      "id": 9,
+      "firstName": "Zion",
+      "lastName": "Williamson",
+      "jerseyNumber": 1,
+      "team": "New Orleans Pelicans"
+    },
+    {
+      "id": 10,
+      "firstName": "Kyrie",
+      "lastName": "Irving",
+      "jerseyNumber": 11,
+      "team": "Brooklyn Nets"
+    },
+    {
+      "id": 11,
+      "firstName": "James",
+      "lastName": "Harden",
+      "jerseyNumber": 1,
+      "team": "Philadelphia 76ers"
+    },
+    {
+      "id": 12,
+      "firstName": "Russel",
+      "lastName": "Westbrook",
+      "jerseyNumber": 0,
+      "team": "Los Angeles Lakers"
+    },
+    {
+      "id": 13,
+      "firstName": "Bradley",
+      "lastName": "Beal",
+      "jerseyNumber": 3,
+      "team": "Washington Wizards"
+    },
+    {
+      "id": 14,
+      "firstName": "Damian",
+      "lastName": "Lillard",
+      "jerseyNumber": 0,
+      "team": "Portland Trail Blazers"
+    },
+    {
+      "id": 15,
+      "firstName": "Donovan",
+      "lastName": "Mitchell",
+      "jerseyNumber": 45,
+      "team": "Cleveland Cavaliers"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
